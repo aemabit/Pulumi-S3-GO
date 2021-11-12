@@ -1,0 +1,5 @@
+config:
+  pulumi:template: aws-go
+  aws:region: <aws-region>
+  aws:accessKey: <aws-acceskey>
+  aws:secretKey: <aws-secretkey>
